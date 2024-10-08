@@ -1,0 +1,11 @@
+ul.circle{
+    list-style-type: circle;
+}
+
+ol.romans_maj{
+    list-style-type: upper-roman;
+}
+
+ol.low_case{
+    list-style-type: lower-alpha;
+}
